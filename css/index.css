@@ -1,0 +1,65 @@
+
+/* id home-info*/
+#home-info-1,
+#home-info-2,
+#home-info-3 {
+  height: 400px;
+}
+
+#home-info-1 .info-1-img {
+  float: left;
+  width: 50%;
+  background: url(../img/gallery/main/main1.jpg) no-repeat center center/cover;
+  min-height: 100%;
+}
+
+#home-info-1 .info-1-desc {
+  float: right;
+  width: 50%;
+  height: 100%;
+  text-align: center;
+  padding: 50px 30px;
+  overflow: hidden;
+}
+
+#home-info-2 .info-2-img {
+  float: right;
+  width: 50%;
+  background: url(../img/gallery/main/main2.jpg) no-repeat center center/cover;
+  min-height: 100%;
+}
+
+#home-info-2 .info-2-desc {
+  float: left;
+  width: 50%;
+  height: 100%;
+  text-align: center;
+  padding: 50px 30px;
+  overflow: hidden;
+}
+
+#home-info-3 .info-3-img {
+  float: left;
+  width: 50%;
+  background: url(../img/gallery/main/main3.jpg) no-repeat center center/cover;
+  min-height: 100%;
+}
+
+#home-info-3 .info-3-desc {
+  float: right;
+  width: 50%;
+  height: 100%;
+  text-align: center;
+  padding: 50px 30px;
+  overflow: hidden;
+}
+
+#home-info-1 .info-1-desc p,
+#home-info-2 .info-2-desc p,
+#home-info-3 .info-3-desc p {
+  padding-bottom: 30px;
+}
+
+
+
+home benefit
